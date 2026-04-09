@@ -108,3 +108,12 @@ h1, h2 {
   margin-top: 0;
 }
 ```
+
+#### Submission checklist
+I corrected the HTML structure.
+I used semantic elements where suitable.
+I added meaningful alt text to the image.
+I corrected CSS syntax errors.
+I used margin and padding clearly.
+I submitted a working editor link or zip file.
+I created a separate cheat-sheet page with at least 10 HTML tags and 10 CSS properties.
