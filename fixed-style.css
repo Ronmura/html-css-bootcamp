@@ -1,16 +1,16 @@
 body {
-  font-family: Arial, sans-serif
+  font-family: Arial, sans-serif;
   background-color: #f4f4f4;
   color: #222;
 }
 
-.navigation {
+.nav {
   background-color: #0f6a6e;
   padding: 10px;
 }
 
 .nav a {
-  color: white
+  color: white;
   text-decoration: none;
   margin-right: 12px;
 }
@@ -18,20 +18,21 @@ body {
 .content {
   background: white;
   margin: 10px;
-  padding 20px;
+  padding: 20px;
   border: 1px solid #dddddd;
 }
 
 h1 {
-  color: #fffff;
+  color: #ffffff;
 }
 
 img {
   border: 3px solid #0f6a6e;
 }
 
-.table {
+table {
   width: 100%;
+  border-collapse: collapse;
 }
 
 th, td {
